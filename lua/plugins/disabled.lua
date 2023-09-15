@@ -8,7 +8,7 @@ return {
   -- { "hrsh7th/cmp-path", enabled = false },
   -- { "saadparwaiz1/cmp_luasnip", enabled = false },
   -- { "echasnovski/mini.pairs", enabled = false },
-  { "echasnovski/mini.surround", enabled = false },
+  -- { "echasnovski/mini.surround", enabled = false },
   -- { "JoosepAlviste/nvim-ts-context-commentstring", enabled = false },
   -- { "echasnovski/mini.comment", enabled = false },
   -- { "echasnovski/mini.ai", enabled = false },
