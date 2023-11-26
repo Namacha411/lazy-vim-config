@@ -5,6 +5,9 @@
 -- disabled mouse
 vim.opt.mouse = ""
 
+-- disabled autoformat
+vim.g.autoformat = false
+
 -- use powershell
 if vim.fn.has("win32") then
   vim.opt.shell = "pwsh"

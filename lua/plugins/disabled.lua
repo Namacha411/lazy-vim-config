@@ -54,13 +54,14 @@ return {
   { "SmiteshP/nvim-navic", enabled = false },
   -- { "nvim-tree/nvim-web-devicons", enabled = false },
   -- { "MunifTanjim/nui.nvim", enabled = false },
+  { "nvimdev/dashboard-nvim", enabled = false },
 
   -- Util
-  -- { "dstein64/vim-startuptime", enabled = false },
+  { "dstein64/vim-startuptime", enabled = false },
   { "folke/persistence.nvim", enabled = false },
   -- { "nvim-lua/plenary.nvim", enabled = false },
 
   -- Copilot
-  -- { "zbirenbaum/copilot-cmp", enabled = false },
-  -- { "zbirenbaum/copilot.lua", enabled = false },
+  { "zbirenbaum/copilot-cmp", enabled = false },
+  { "zbirenbaum/copilot.lua", enabled = false },
 }
