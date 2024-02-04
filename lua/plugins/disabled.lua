@@ -11,7 +11,7 @@ return {
   -- { "echasnovski/mini.surround", enabled = false },
   -- { "JoosepAlviste/nvim-ts-context-commentstring", enabled = false },
   -- { "echasnovski/mini.comment", enabled = false },
-  -- { "echasnovski/mini.ai", enabled = false },
+  { "echasnovski/mini.ai", enabled = false },
 
   -- Colorscheme
   -- { "folke/tokyonight.nvim", enabled = false },
@@ -22,10 +22,10 @@ return {
   { "nvim-pack/nvim-spectre", enabled = false },
   -- { "nvim-telescope/telescope.nvim", enabled = false },
   { "folke/flash.nvim", enabled = false },
-  -- { "folke/which-key.nvim", enabled = false },
+  { "folke/which-key.nvim", enabled = false },
   -- { "lewis6691/gitsigns.nvim", enabled = false },
   -- { "RRethy/vim-illuminate", enabled = false },
-  -- { "echasnovski/mini.bufremove", enabled = false },
+  { "echasnovski/mini.bufremove", enabled = false },
   { "folke/trouble.nvim", enabled = false },
   { "folke/todo-comments.nvim", enabled = false },
 
